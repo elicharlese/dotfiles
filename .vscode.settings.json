@@ -1,0 +1,64 @@
+{
+    "workbench.colorTheme": "Monokai Pro",
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "workbench.productIconTheme": "icons-carbon",
+    "vs-kubernetes": {
+        "vscode-kubernetes.kubectl-path.linux": "/home/gitpod/.local/state/vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.minikube-path.linux": "/home/gitpod/.local/state/vs-kubernetes/tools/minikube/linux-amd64/minikube",
+        "vscode-kubernetes.helm-path.linux": "/home/gitpod/.local/state/vs-kubernetes/tools/helm/linux-amd64/helm"
+    },
+    "CodeGPT.query.language": "English",
+    "CodeGPT.model": "code-davinci-002",
+    "tabnine.experimentalAutoImports": true,
+    "GitLive.Special branches": "main|master|trunk|dev|develop|qa|test|release[-/].*",
+    "GitLive.Issue tracker integration": "Disabled",
+    "yaml.customTags": [
+        "!And",
+        "!And sequence",
+        "!If",
+        "!If sequence",
+        "!Not",
+        "!Not sequence",
+        "!Equals",
+        "!Equals sequence",
+        "!Or",
+        "!Or sequence",
+        "!FindInMap",
+        "!FindInMap sequence",
+        "!Base64",
+        "!Join",
+        "!Join sequence",
+        "!Cidr",
+        "!Ref",
+        "!Sub",
+        "!Sub sequence",
+        "!GetAtt",
+        "!GetAZs",
+        "!ImportValue",
+        "!ImportValue sequence",
+        "!Select",
+        "!Select sequence",
+        "!Split",
+        "!Split sequence"
+    ],
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "chatgpt.emailAddress": "elicharles.e@gmail.com",
+    "redhat.telemetry.enabled": true,
+    "git-autoconfig.configList": [
+        {
+            "user.email": "elicharles.e@gmail.com",
+            "user.name": "elicharlese"
+        }
+    ],
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "chatgpt.gpt3.apiKey": "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",
+    "tabnine.receiveBetaChannelUpdates": true,
+    "solidity.telemetry": false,
+    "codestream.serverUrl": "https://api.codestream.com",
+    "MutableAI.includeRelevantFiles": true,
+    "git.autofetch": true
+}
